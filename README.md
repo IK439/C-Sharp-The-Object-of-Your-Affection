@@ -35,7 +35,7 @@ This project showcases several core C# and OOP techniques:
 
 ## Example Output
 ```
-***Dating Profile***
+*** Dating Profile ***
 
 Name: Michelle Jones
 Age: 32
