@@ -61,7 +61,7 @@ namespace DatingProfile
         // Builds and returns the profile text
         public string ViewProfile()
         {
-            Console.WriteLine("***Dating Profile***\n");
+            Console.WriteLine("*** Dating Profile ***\n");
             StringBuilder bio = new StringBuilder();
 
             bio.AppendLine($"Name: {Name}");
